@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "askforreferral",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",

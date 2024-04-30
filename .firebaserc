@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "askforreferral-f40c4"
-  }
+    "default": "ask-for-referral"
+  },
+  "targets": {
+    "askforreferral-f40c4": {
+      "hosting": {
+        "askforreferral": [
+          "default"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
